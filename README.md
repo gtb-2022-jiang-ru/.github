@@ -6,4 +6,4 @@
 - 来自四川大学软件学院
 - 国内软开（Java）base西安
 ## 
-![image](D:\找工作相关\一寸电子照.jpg)
+![image](.\assets\一寸电子照.jpg)
